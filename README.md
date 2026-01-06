@@ -12,7 +12,7 @@ The SortWaste dataset consists of top-down images of waste items on a conveyor b
 The following figure shows **annotated samples from the dataset**, illustrating object density, clutter, and the diversity of materials.  
 **Note:** this image provides an overview of the annotated dataset and **does not depict the data collection setup**.
 
-![images](teaser(2).png)
+![images](images/teaser(2).png)
 
 ## Annotated Classes
 
@@ -29,7 +29,7 @@ SortWaste includes **8 waste material classes**, annotated with bounding boxes:
 
 Representative examples of each class are shown below:
 
-![images](classes.png)
+![images](images/classes.png)
 
 ## Dataset Characteristics
 
