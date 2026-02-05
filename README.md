@@ -5,6 +5,8 @@ This repository provides resources associated with the paper
 
 SortWaste is a **real-world industrial object detection dataset**, collected on a municipal solid waste (MSW) sorting line. It focuses on highly challenging visual conditions, including **dense clutter, object overlap, deformation, and contamination**, which are typically underrepresented in existing waste datasets.
 
+The dataset is publicly available at: https://sortwaste.di.ubi.pt .
+
 ## Dataset Overview
 
 The SortWaste dataset consists of top-down images of waste items on a conveyor belt, densely annotated with bounding boxes. The scenes reflect real industrial sorting conditions and are designed to evaluate object detection models under high visual complexity.
